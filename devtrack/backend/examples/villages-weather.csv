@@ -1,0 +1,4 @@
+external_id,original_name,state,district,latitude,longitude,rainfall_mm,temperature_c
+WX-101,Gorakhpur,Uttar Pradesh,Gorakhpur,26.7607,83.3731,112,29.4
+WX-102,Chauri Chaura,Uttar Pradesh,Gorakhpur,26.6605,83.5302,108,29.8
+WX-103,Deoria,Uttar Pradesh,Deoria,26.5024,83.7791,95,30.1

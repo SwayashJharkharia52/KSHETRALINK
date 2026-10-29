@@ -1,0 +1,11 @@
+{
+  "name": "geocode-setu-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "REST API for Geocode Setu place matching, review, and provenance",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {"start":"node src/server.js", "dev":"node --watch src/server.js", "check":"node --check src/server.js && node --check src/matching.js"},
+  "engines": {"node": ">=20"},
+  "dependencies": {"cors":"^2.8.6", "dotenv":"^16.4.7", "express":"^5.1.0", "multer":"^2.0.2", "pg":"^8.16.3"}
+}
